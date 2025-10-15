@@ -1,2 +1,0 @@
-# PasswordRules
-Validate password rules
